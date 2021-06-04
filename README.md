@@ -29,3 +29,7 @@ On closer inspection of the results provide by the previous code, it became appa
 <img width="463" alt="Screen Shot 2021-06-04 at 3 52 05 PM" src="https://user-images.githubusercontent.com/82982901/120855757-e54ac100-c54c-11eb-9277-3961cc55a84c.png">
 
 ## Summary
+
+The coming retirements will leave many more vacancies than the proposed mentorship will fill. The proposed mentorship program for employees born in 1965 will provide 1,549 employees to fill the 90,398 retirement vacancies. In order to get the maximize the potential of the mentorship program, I propose further analyzing the data to expand the eligibility to qualify for the program to employees born later than 1965. 
+
+Additionally, it would be helpful to add a filter on the analysis to account for employee positions and titles. Currently, the code used to determine mentorship eligibility does not consider the current positions of the employees born in 1965. It is possible that there are not enough retiring employees to mentor certain positions. As the third image in the Analysis section illustrated, there are only two employees listed as "manager" who will be eligible for retirement but the current code does not tell us how many 1965 employees hold the title of manager.   
